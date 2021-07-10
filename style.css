@@ -18,8 +18,12 @@ h1{
 }
 .flexiable-container{
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
+.top{
+   margin-top: 150px;
+}
+
 .width{
     width: 50%;
     padding-left:5% ;
