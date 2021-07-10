@@ -30,8 +30,32 @@ p{
     padding-bottom: 30px;
 }
 .width img{
-    width: 80%;
+    width: 90%;
 }
 .about{
     background-image: url(7.png);
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+}
+.food{
+    text-align: center;
+}
+.new{
+    margin-left: 5%;
+    align-items: center;
+    border: 20px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.new img{
+    width: 100%;
+}
+h3{
+    font-weight: 700;
+}
+.right{
+    margin-right: 5%;
 }
